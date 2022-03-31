@@ -1,5 +1,5 @@
 const clientId = '80191663b26b4c5384b35a4b89a679c9';
-const redirectUri = 'https://jamming-reactjs.netlify.app/';
+const redirectUri = 'http://localhost:3000/';
 let accessToken;
 
 const Spotify = {
